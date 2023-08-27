@@ -6,7 +6,7 @@ function Logo(props: any) {
     <div className='flex items-center space-x-2'>
       <Image
         className='rounded-full object-cover'
-        src='https://links.papareact.com/1m8'
+        src='/jay-logo_crop.webp'
         alt='Logo'
         width={50}
         height={50}
